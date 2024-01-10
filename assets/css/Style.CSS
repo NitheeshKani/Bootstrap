@@ -21,8 +21,8 @@ p.about-me-paragraph{
     border: 3px solid gray;
     padding: 10px;
     border-radius: 10px;
-    margin-bottom: 20px;
-
+    margin-top: 10px;
+    text-align: center;
 }
 .product-name{
     font-weight:bold;
@@ -31,4 +31,7 @@ p.about-me-paragraph{
 .price{
     font-weight: bold;
     color: green;
+}
+.product-list{
+    margin: 20px;
 }
